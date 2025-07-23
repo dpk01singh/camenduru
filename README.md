@@ -1,6 +1,4 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
-🥳 Please join my patreon community https://patreon.com/camenduru <br />
+This is for exploration of AI tolls.
 
 #### 💻 Non-Profit GPU Cluster
 https://github.com/camenduru/non-profit-gpu-cluster <br />
